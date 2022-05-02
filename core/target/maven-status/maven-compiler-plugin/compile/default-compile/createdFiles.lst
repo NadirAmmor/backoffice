@@ -1,0 +1,6 @@
+com\directmedia\onlinestore\core\entity\ShoppingCart.class
+com\directmedia\onlinestore\core\entity\Work.class
+com\directmedia\onlinestore\core\entity\Catalogue.class
+com\directmedia\onlinestore\core\Startup.class
+com\directmedia\onlinestore\core\entity\Artist.class
+com\directmedia\onlinestore\core\Tp_test.class
